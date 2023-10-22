@@ -7,7 +7,7 @@ function Benefits() {
         <div className="benefit">
           <span className="icon"><i className="bx bx-purchase-tag"></i></span>
           <h4>Free Shipping</h4>
-          <span className="text">Capped at $16 per order</span>
+          <span className="text">Capped at Rs 16 per order</span>
         </div>
 
         <div className="benefit">
