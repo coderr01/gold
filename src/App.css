@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap");
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +39,19 @@
     transform: rotate(360deg);
   }
 }
+
+.welcome-page {
+  text-align: center;
+  padding: 40px;
+  background-color: #f0f0f0;
+}
+
+.welcome-page h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+.welcome-page p {
+  font-size: 18px;
+  color: #666;
+} 
