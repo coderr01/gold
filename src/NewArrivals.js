@@ -12,7 +12,7 @@ function NewArrivals() {
           <div className="img-cover">
             <img src={gold} alt="" className="gold" />
           </div>
-          <p>Women handbag leather</p>
+          <p>Hathphool</p>
           <div className="rating">
             <i className="bx bxs-star"></i>
             <i className="bx bxs-star"></i>
@@ -27,7 +27,7 @@ function NewArrivals() {
           <div className="img-cover">
             <img src={gold} alt="" className="gold" />
           </div>
-          <p>Women Sandals 2021</p>
+          <p>Women Braclets 2021</p>
           <div className="rating">
             <i className="bx bxs-star"></i>
             <i className="bx bxs-star"></i>
@@ -42,7 +42,7 @@ function NewArrivals() {
           <div className="img-cover">
             <img src={gold} alt="" className="gold" />
           </div>
-          <p>Luxury wallet purse</p>
+          <p>Luxury Earrings </p>
           <div className="rating">
             <i className="bx bxs-star"></i>
             <i className="bx bxs-star"></i>
@@ -50,14 +50,14 @@ function NewArrivals() {
             <i className="bx bxs-star"></i>
             <i className="bx bx-star"></i>
           </div>
-          <div className="price">LKR 2000</div>
+          <div className="price">Rs 2000</div>
         </div>
 
         <div className="ac">
           <div className="img-cover">
             <img src={gold} alt="" className="gold" />
           </div>
-          <p>Leather belt</p>
+          <p>Neckless</p>
           <div className="rating">
             <i className="bx bxs-star"></i>
             <i className="bx bxs-star"></i>
@@ -65,7 +65,7 @@ function NewArrivals() {
             <i className="bx bxs-star"></i>
             <i className="bx bx-star"></i>
           </div>
-          <div className="price">LKR 1500</div>
+          <div className="price">Rs 1500</div>
         </div>
       </div>
     </section>
